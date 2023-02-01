@@ -1,0 +1,42 @@
+[
+    {
+        "title":"Why We use <br> Element?",
+        "answer_1":"break point",
+        "answer_2":"make long line",
+        "answer_3":"To Make Italic Text",
+        "answer_4":"To Add BreakLine",
+        "right_answer":"To Add BreakLine"
+    },
+    {
+        "title":"Are the HTML tags and elements the same thing?",
+        "answer_1":"Yes",
+        "answer_2":"No",
+        "answer_3":"Yes / No",
+        "answer_4":"None Of Above",
+        "right_answer":"Yes"
+    },
+    {
+        "title":"What are tags and attributes in HTML?",
+        "answer_1":"Tags are the primary component of the HTML that defines how the content will be structured/formatted",
+        "answer_2":"Tags are the primary component",
+        "answer_3":"Tags are not the primary component",
+        "answer_4":"None Of the Above",
+        "right_answer":"Tags are the primary component of the HTML that defines how the content will be structured/formatted"
+    },
+    {
+        "title":"What is the ‘class’ attribute in HTML?",
+        "answer_1":"The class attribute is used to specify the class name for an HTML element",
+        "answer_2":"The class attribute is primary",
+        "answer_3":"The class attribute is Not primary",
+        "answer_4":"None Of the Above",
+        "right_answer":"The class attribute is used to specify the class name for an HTML element"
+    },
+    {
+        "title":"what is <head>",
+        "answer_1":"contain the headers",
+        "answer_2":"contain the body",
+        "answer_3":"contain Nothin",
+        "answer_4":"None Of the Above",
+        "right_answer":"contain the headers"
+    }
+]
